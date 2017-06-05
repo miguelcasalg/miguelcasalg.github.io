@@ -195,9 +195,33 @@ header {
 	color:black;
 	left:600px;
 	right:950px;
+	font-size: 50px;
  
 }
 
+ 
+ .rollText{
+	 font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:553px;
+	color:black;
+	left:200px;
+	right:950px;
+	font-size: 50px;
+ }
+ 
+ 
+ .rollPistolText{
+	 font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:1500px;
+	color:black;
+	left:200px;
+	right:950px;
+	font-size: 50px;
+ }
+	 
+ 
  .imagen3{
 	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	position:absolute;
@@ -208,6 +232,49 @@ header {
  
 }
 
+.imagen4{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:1000px;
+	color:black;
+	left:1400px;
+	right:950px;
+	font-size: 50px;
+}
+	
+
+.imagen5{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:1500px;
+	color:black;
+	left:1400px;
+	right:950px;
+	font-size: 50px;
+}
+
+
+.imagen6{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:1500px;
+	color:black;
+	left:500px;
+	right:950px;
+	font-size: 50px;
+}
+
+.contactoFont{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:700px;
+	color:black;
+	left:500px;
+	right:950px;
+	font-size: 20px;
+}	
+		
+	
 
 
 .intexto {
@@ -295,13 +362,69 @@ header {
  
  }
 
- .formato4{
+ 
+	.foto5{
+	left:700px;
+	top:2000px;
+	}
+ 
+.formato4{
 	left:13%;
 	top:1650px;
 	position:absolute;
 	padding-bottom: 200px;
  
  }
+ 
+ .foto5{
+	left:500px;
+	top:2000px;
+	}
+	
+.formato5{	
+	lef:40%;
+	top:700px;
+	position:absolute;
+	
+}	
+
+.foto6{
+	left:500px;
+	top:2000px;
+	}
+
+.formato6{
+	lef:40%;
+	top:1300px;
+	position:absolute;
+}	
+
+
+.formato7{
+	left:30%;
+	top:350px;
+	position:absolute;
+}	
+	
+
+.formato8{
+	left:30%;
+	top:1100px;
+	position:absolute;
+}	
+		
+	
+	.TitleAsig{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	position:absolute;
+	top:200px;
+	color:black;
+	left:600px;
+	right:950px;
+	font-size: 80px;
+}	
+	
+	
  
  .intexto4 {
 	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
